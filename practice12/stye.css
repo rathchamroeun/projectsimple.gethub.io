@@ -1,0 +1,14 @@
+body a:hover{
+    background: greenyellow;
+    color: rgb(14, 11, 16);
+    transition: 0.5s;
+    margin-right: 10px;
+    border-radius: 7px;
+}
+body a{
+    color: rgb(243, 241, 234);
+    font-family:KhmerDLStation TNRB;
+    font-size: 18px;
+    transition: 0.5s;
+    
+}
